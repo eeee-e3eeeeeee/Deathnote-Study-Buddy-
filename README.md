@@ -30,12 +30,7 @@ The deathnote study buddy is a study buddy based off of the classic anime Deathn
    - Adafruit LIS3DH
    - Adafruit Unified Sensor
    - AnimatedGIF (by Larry Bank)
-4. Duplicate `config.example.h` and rename it to `config.h`, then drop in your Wi-Fi credentials. *(The `.gitignore` file is set up to keep your passwords private—never commit your actual `config.h`!)*
-5. Open `DeathNoteStudyBuddy.ino`, select the correct serial port, and hit upload.
+5. Open `deathnotestudybuddy_oct11a.ino`, select the correct serial port, and hit upload.
 
 ## Adding Animations (`.gif`)
-To get the animations working, drop your files into this folder structure:
-- `data/gifs/focus.gif`
-- `data/gifs/motion.gif`
-
-Keep your GIFs small, lightweight, and cropped to fit a 240x280 vertical display. Because these go into flash memory via LittleFS, you’ll need to use an ESP32 filesystem uploader tool in your IDE to push the `data/` folder separately from your standard code upload.
+will update this when i get the physical board and can add gifs to it 
