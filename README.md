@@ -2,11 +2,11 @@
 The deathnote study buddy is a study buddy based off of the classic anime Deathnote. It has study timers, and notifies you if you get distracted and move it around. It plays looping gifs, and also when its not being used as a timer it can be used as a clock.
 <img width="611" height="616" alt="Image" src="https://github.com/user-attachments/assets/159aaf3c-4210-44b7-9c57-7e5770daf287" />
 ## What it does
-- **Live Clock:** Syncs the current time over Wi-Fi using NTP.
+- **Live Clock:** Syncs the current time over Wi-Fi.
 - **Pomodoro Modes:** Easily switch between 25-minute focus blocks, 5-minute breaks, and heavy 50-minute deep focus sessions.
-- **Animated Backgrounds:** Streams looping GIFs directly from flash memory while you work.
+- **Animated Backgrounds:** Streams looping GIFs.
 - **Anti-Cheat Motion Detector:** Uses an LIS3DH accelerometer to monitor movement. If you shake or move the device too much, it flashes an "L IS WATCHING" warning to force you back to work.
-- **Simple Controls:** Managed entirely with two physical push buttons.
+- **Simple Controls:** Managed with two push buttons.
 
 ## Wiring & Pin Map
 | Function | XIAO Pin |
