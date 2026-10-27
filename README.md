@@ -1,6 +1,7 @@
 # Deathnote-Study-Buddy-
 The deathnote study buddy is a study buddy based off of the classic anime Deathnote. It has study timers, and notifies you if you get distracted and move it around. It plays looping gifs, and also when its not being used as a timer it can be used as a clock.
-<img width="611" height="616" alt="Image" src="https://github.com/user-attachments/assets/159aaf3c-4210-44b7-9c57-7e5770daf287" />
+<img width="177" height="181" alt="Image" src="https://github.com/user-attachments/assets/16e2c809-12e1-4e11-b469-f2959f02cf48" />
+<img width="2208" height="1204" alt="Image" src="https://github.com/user-attachments/assets/826e3663-3270-4b08-acad-edfbd33e0bb9" />
 ## What it does
 - **Live Clock:** Syncs the current time over Wi-Fi.
 - **Pomodoro Modes:** Easily switch between 25-minute focus blocks, 5-minute breaks, and heavy 50-minute deep focus sessions.
