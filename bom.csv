@@ -1,5 +1,6 @@
-"Reference","Qty","price","link",
+"part","Qty","price","link",
 "Waveshare 1.69in display","1","$14.39","https://a.co/d/0bdfUZqn",
 "LIS3DH accelerometer","1","$4.99","https://tinyurl.com/2uczxe9e",
 "buttons","2","$6.99","https://a.co/d/03x0DD0f",
 "Xiao esp32C3","1","$9.90","https://a.co/d/03UD98Jw",
+"pcb","1","4.00","jlcpcb"
