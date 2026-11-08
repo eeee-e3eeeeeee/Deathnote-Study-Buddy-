@@ -1,4 +1,4 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"Reference","Qty","Value"
 "J1","1","Conn_01x08","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical",""
 "J2","1","Conn_01x06","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical",""
 "SW1","1","A","","","","","${EXCLUDE_FROM_POS_FILES}","Button_Switch_THT:SW_PUSH_6mm",""
